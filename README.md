@@ -1,7 +1,7 @@
 # NagoyaCoin Crowdsale(sample)
 
-Etereum開発用ライブラリであるOpenZeppelinのCrowdsaleを利用したサンプルコードです。
-Testnet上でICO用のコントラクトを作成します。
+Etereum開発用ライブラリであるOpenZeppelinを利用したICO(Initial Coin Offering。Crowdsale)のサンプルコードです。
+Testnet上でNagoyaCoinというトークンのICO用コントラクトを作成・デプロイします。
 
 開発環境：
 OS Ubuntu 16.04.4
